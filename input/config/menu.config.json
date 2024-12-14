@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Navbar",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1730908916356,
+                "label": "About",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 5,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1731700810352,
+                "label": "Sponsors",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 6,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": "-1"
+    }
+]

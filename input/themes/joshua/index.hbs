@@ -1,0 +1,55 @@
+{{> head}}
+<main class="main--grid">
+
+  {{#if @config.custom.welcome}}
+  {{#checkIfAny @config.custom.welcomeImage @config.custom.welcome}}
+  <div class="welcome">
+    <div class="welcome__headline">
+        {{{@config.custom.welcomeHeadline}}}
+    </div>
+    <div class="welcome__image">
+        <img src="{{@config.custom.welcomeImage}}" {{responsiveSrcSet @config.custom.welcomeImage}} {{responsiveSizes}}  alt="{{@config.custom.welcomeImageAlt}}" title="{{@config.custom.welcomeImageTitle}}">
+    </div>
+    <div class="welcome__text">
+        {{{@config.custom.welcomeTitle}}}
+    </div>
+    <div class="welcome__spacer">
+    </div>
+  </div>
+  {{/checkIfAny}}
+  {{#checkIfAny @config.custom.welcomeFeautured}}
+  <div class="welcome__feautured">{{{@config.custom.welcomeFeautured}}}</div>
+  {{/checkIfAny}}
+  {{/if}}
+    {{#if featuredPosts}}
+        {{#each featuredPosts}}
+            {{#checkIf @index '<' 8}}
+                <article class="article">
+                    {{#featuredImage}}
+                        {{#if url}}
+                            <img role="presentation" class="img-blurred" src="{{url}}" {{#if @config.custom.responsiveImages}} sizes="{{sizes.listing}}" srcset=" {{srcset.listing}}" {{/if}} alt="" loading="lazy">
+                            <img src="{{url}}" {{#if @config.custom.responsiveImages}} sizes="{{sizes.listing}}" srcset=" {{srcset.listing}}" {{/if}} alt=" {{alt}}" loading="lazy">
+                            <a href="{{../url}}" class="overlay">
+                        {{/if}}
+                    {{/featuredImage}}
+                    <h1>{{title}}</h1>
+                    </a>
+                </article>
+            {{/checkIf}}
+        {{/each}}
+    {{/if}}
+    <!-- {{#each posts}}
+        <article class="article">
+            {{#featuredImage}}
+                {{#if url}}
+                    <img src="{{url}}" {{#if @config.custom.responsiveImages}} sizes="{{sizes.listing}}" srcset=" {{srcset.listing}}" {{/if}} alt=" {{alt}}">
+                    <a href=" {{../url}}" class="overlay">
+                {{/if}}
+            {{/featuredImage}}
+            <h1>{{title}}</h1>
+            </a>
+        </article>
+    {{/each}} -->
+</main>
+<!-- {{> pagination}} -->
+{{> footer}}

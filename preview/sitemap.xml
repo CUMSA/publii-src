@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/</loc>
+</url>
+<url>
+<loc>file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/about-cumsa.html</loc>
+<lastmod>2024-11-15T19:59:49+00:00</lastmod>
+<image:image>
+<image:loc>file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/5/photo_2024-11-06-16.03.29.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/5/photo_2024-11-15-19.34.31-2.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/sponsors.html</loc>
+<lastmod>2024-11-15T20:00:37+00:00</lastmod>
+<image:image>
+<image:loc>file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/6/optiver-screenshot-1.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/6/qrt_logo.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
