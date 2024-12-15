@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/sitemap.xml

@@ -7,7 +7,7 @@
         "color": 1,
         "icon": "web-home"
     },
-    "domain": "https://cumsa.github.io/cumsa.org",
+    "domain": "https://cumsa.org",
     "language": "en-gb",
     "spellchecking": false,
     "advanced": {
@@ -232,5 +232,5 @@
         }
     },
     "theme": "cumsa",
-    "syncDate": 1731700858884
+    "syncDate": 1734289646100
 }
