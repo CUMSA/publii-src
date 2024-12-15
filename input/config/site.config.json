@@ -1,5 +1,5 @@
 {
-    "uuid": "uuid-1734177377643-519444734",
+    "uuid": "uuid-1729633166180-222027894",
     "name": "cumsa",
     "displayName": "CUMSA",
     "synced": "synced",
@@ -23,7 +23,7 @@
         "versionSuffix": 1,
         "sitemapEnabled": 1,
         "sitemapAddTags": 1,
-        "sitemapAddAuthors": false,
+        "sitemapAddAuthors": 1,
         "sitemapAddHomepage": 1,
         "sitemapAddExternalImages": 0,
         "sitemapExcludedFiles": "",
@@ -43,9 +43,6 @@
         "homepageNoIndexPagination": false,
         "homepageNoPagination": false,
         "metaRobotsIndex": "index, follow",
-        "homepageMetaTitle": "%sitename",
-        "homepageMetaDescription": "",
-        "homepageMetaRobotsIndex": "index, follow",
         "postMetaTitle": "%posttitle - %sitename ",
         "postMetaDescription": "",
         "pageMetaTitle": "%pagetitle - %sitename ",
@@ -196,10 +193,10 @@
             "acl": "public-read"
         },
         "git": {
-            "url": "https://github.com/CUMSA/cumsa.org.git",
+            "url": "https://github.com/CUMSA/cumsa.org",
             "branch": "main",
             "user": "CUMSA",
-            "password": "publii-git-password uuid-1734177377643-519444734",
+            "password": "publii-git-password uuid-1729633166180-222027894",
             "commitAuthor": "admin",
             "commitEmail": "database@cumsa.org",
             "commitMessage": "Publii: update content"
@@ -235,5 +232,5 @@
         }
     },
     "theme": "cumsa",
-    "syncDate": 1734279852383
+    "syncDate": 1731700858884
 }

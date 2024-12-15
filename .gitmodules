@@ -1,0 +1,3 @@
+[submodule "cumsa"]
+	path = input/themes/cumsa
+	url = https://github.com/CUMSA/publii-theme.git
