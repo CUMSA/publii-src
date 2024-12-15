@@ -1,61 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>CUMSA</title>
-    <link href="file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/feed.xml" rel="self" />
-    <link href="file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview" />
-    <updated>2024-11-15T20:00:37+00:00</updated>
+    <link href="file:////Users/xinshuo/Documents/Publii/sites/cumsa/preview/feed.xml" rel="self" />
+    <link href="file:////Users/xinshuo/Documents/Publii/sites/cumsa/preview" />
+    <updated>2024-12-15T02:04:54+01:00</updated>
     <author>
         <name>Zeyu</name>
     </author>
-    <id>file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview</id>
+    <id>file:////Users/xinshuo/Documents/Publii/sites/cumsa/preview</id>
 
-    <entry>
-        <title>Sponsors</title>
-        <author>
-            <name>Zeyu</name>
-        </author>
-        <link href="file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/sponsors.html"/>
-        <id>file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/sponsors.html</id>
-
-        <updated>2024-11-15T19:57:57+00:00</updated>
-            <summary>
-                <![CDATA[
-                    Platinum Sponsors
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h1>Platinum Sponsors<figure class="post__image"><img  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/6/optiver-screenshot-1.png" alt="" width="1696" height="650" sizes="(max-width: 1024px) 100vw, 1024px" srcset="file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/6/responsive/optiver-screenshot-1-xs.png 300w ,file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/6/responsive/optiver-screenshot-1-sm.png 480w ,file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/6/responsive/optiver-screenshot-1-md.png 768w ,file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/6/responsive/optiver-screenshot-1-lg.png 1024w"></figure><figure class="post__image"><img loading="lazy"  style="font-size: inherit; letter-spacing: var(--letter-spacing); color: var(--text-primary-color); font-family: var(--editor-font-family); font-weight: var(--font-weight-normal);" src="file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/6/qrt_logo.png" alt="" width="1570" height="1572" sizes="(max-width: 1024px) 100vw, 1024px" srcset="file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/6/responsive/qrt_logo-xs.png 300w ,file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/6/responsive/qrt_logo-sm.png 480w ,file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/6/responsive/qrt_logo-md.png 768w ,file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/6/responsive/qrt_logo-lg.png 1024w"></figure></h1>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Cambridge University Malaysia and Singapore Association</title>
         <author>
             <name>Zeyu</name>
         </author>
-        <link href="file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/about-cumsa.html"/>
-        <id>file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/about-cumsa.html</id>
-        <media:content url="file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/5/photo_2024-11-06-16.03.29.jpeg" medium="image" />
+        <link href="file:////Users/xinshuo/Documents/Publii/sites/cumsa/preview/about-cumsa.html"/>
+        <id>file:////Users/xinshuo/Documents/Publii/sites/cumsa/preview/about-cumsa.html</id>
+        <media:content url="file:////Users/xinshuo/Documents/Publii/sites/cumsa/preview/media/posts/5/photo_2024-11-06-16.03.29.jpeg" medium="image" />
 
-        <updated>2024-11-06T15:59:17+00:00</updated>
+        <updated>2024-11-06T16:59:17+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/5/photo_2024-11-06-16.03.29.jpeg" alt="" />
+                        <img src="file:////Users/xinshuo/Documents/Publii/sites/cumsa/preview/media/posts/5/photo_2024-11-06-16.03.29.jpeg" alt="" />
                     Founded in 1948, CUMSA aims to bring together members of the Malaysian and Singaporean communities in Cambridge, fostering friendships and providing a home away&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:////Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/5/photo_2024-11-06-16.03.29.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="file:////Users/xinshuo/Documents/Publii/sites/cumsa/preview/media/posts/5/photo_2024-11-06-16.03.29.jpeg" class="type:primaryImage" alt="" /></p>
                 <p> </p>
 <h1> </h1>
 <h1 class="wp-block-heading has-text-align-left has-large-font-size"><strong>Join a close-knit community of Malaysians and Singaporeans in the heart of Cambridge</strong></h1>
 <p>Founded in 1948, CUMSA aims to bring together members of the Malaysian and Singaporean communities in Cambridge, fostering friendships and providing a home away from home to Malaysians and Singaporeans alike. Over the years, CUMSA has built a strong network of current students and alumni in Singapore, the United Kingdom and globally.</p>
 <p>CUMSA holds a number of events throughout the year for its members and alumni with the intention of creating a social environment with a South-East Asian air. We also hold career-focused events for our members in a wide variety of industries.</p>
-<p><a href="https://membership.cumsa.org">Sign up for membership</a></p>
-<figure class="post__image post__image--wide"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-right: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/5/photo_2024-11-15-19.34.31-2.jpeg" alt="" width="467" height="311" sizes="(max-width: 1024px) 100vw, 1024px" srcset="file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/5/responsive/photo_2024-11-15-19.34.31-2-xs.jpeg 300w ,file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/5/responsive/photo_2024-11-15-19.34.31-2-sm.jpeg 480w ,file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/5/responsive/photo_2024-11-15-19.34.31-2-md.jpeg 768w ,file:///Users/zhangzeyu/Documents/Publii/sites/cumsa/preview/media/posts/5/responsive/photo_2024-11-15-19.34.31-2-lg.jpeg 1024w"></figure>
+<p><a href="https://membership.cumsa.org"  class="extlink extlink-icon-1 "  >Sign up for membership</a></p>
+<figure class="post__image post__image--wide"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-right: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="file:///Users/xinshuo/Documents/Publii/sites/cumsa/preview/media/posts/5/photo_2024-11-15-19.34.31-2.jpeg" alt="" width="467" height="311" sizes="(max-width: 1024px) 100vw, 1024px" srcset="file:///Users/xinshuo/Documents/Publii/sites/cumsa/preview/media/posts/5/responsive/photo_2024-11-15-19.34.31-2-xs.jpeg 300w ,file:///Users/xinshuo/Documents/Publii/sites/cumsa/preview/media/posts/5/responsive/photo_2024-11-15-19.34.31-2-sm.jpeg 480w ,file:///Users/xinshuo/Documents/Publii/sites/cumsa/preview/media/posts/5/responsive/photo_2024-11-15-19.34.31-2-md.jpeg 768w ,file:///Users/xinshuo/Documents/Publii/sites/cumsa/preview/media/posts/5/responsive/photo_2024-11-15-19.34.31-2-lg.jpeg 1024w"></figure>
 <h1 class="wp-block-heading"><strong>Where we come from</strong></h1>
 <p>CUMSA was founded in the Michaelmas term of 1948. Then known as the Cambridge University Malayan Association, it brought together a small community, worlds away from home.</p>
 <p>CUMSA’s founding committee included former Minister Mentor Lee Kuan Yew (as President), and former Chief Justice Yong Pung How (as Secretary). Over 60 years since, many Malaysians and Singaporeans have contributed to the organisation – a list which includes Singapore’s current Prime Minister Lee Hsien Loong, and former Minister for Foreign Affairs George Yeo.</p>
