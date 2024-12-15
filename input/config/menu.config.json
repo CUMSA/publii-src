@@ -73,18 +73,6 @@
                         "cssClass": "",
                         "isHidden": false,
                         "items": []
-                    },
-                    {
-                        "id": 1734220464760,
-                        "label": "Bronze Sponsors",
-                        "title": "",
-                        "type": "post",
-                        "target": "_self",
-                        "rel": "",
-                        "link": 12,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
                     }
                 ]
             }
