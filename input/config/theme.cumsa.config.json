@@ -1,9 +1,9 @@
 {
     "config": {
-        "postsPerPage": 6,
-        "tagsPostsPerPage": 6,
-        "authorsPostsPerPage": 6,
-        "excerptLength": 24,
+        "postsPerPage": "6",
+        "tagsPostsPerPage": "6",
+        "authorsPostsPerPage": "6",
+        "excerptLength": "24",
         "logo": ""
     },
     "customConfig": {
@@ -23,9 +23,9 @@
         "sliderPaginationDotsPosition": "right",
         "sliderCategory": true,
         "sliderButton": true,
-        "postPageWidth": "52rem",
-        "featuredImageHeight": "100",
-        "postAside": true,
+        "postPageWidth": "66rem",
+        "featuredImageHeight": "60",
+        "postAside": false,
         "heroTag": true,
         "gridGutter": "portfolio--gutter",
         "gridImageOverlay": "rgba(255, 255, 255, 0.3)",
@@ -53,7 +53,7 @@
         "shareLinkedin": false,
         "shareBuffer": false,
         "commentDisqusShortname": "",
-        "copyrightText": "<p>© CUMSA 2024</p>",
+        "copyrightText": "<div class=\"footer__sponsors\">\n<div class=\"footer__sponsors__group\">\n<div class=\"footer__sponsors__group__title\">Platinum Sponsors</div>\n<img src=\"media/files/mitsui-bussan-logo.png\"></div>\n<div class=\"footer__sponsors__group\">\n<div class=\"footer__sponsors__group__title\">Gold Sponsors</div>\n<img src=\"media/files/mapletree-logo.png\"> <img src=\"media/files/imda-logo.png\"> <img src=\"media/files/setia-logo.jpg\"></div>\n</div>\n<p>© CUMSA 2025</p>",
         "socialButtons": false,
         "socialFacebook": "",
         "socialTwitter": "",

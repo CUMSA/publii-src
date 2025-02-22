@@ -5,7 +5,7 @@
         "items": [
             {
                 "id": 1730908916356,
-                "label": "About",
+                "label": "About Us",
                 "title": "",
                 "type": "post",
                 "target": "_self",
@@ -16,8 +16,32 @@
                 "items": []
             },
             {
+                "id": 1739979474701,
+                "label": "Access & Outreach",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 14,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1739642318447,
+                "label": "Past Publications",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 13,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
                 "id": 1731700810352,
-                "label": "Sponsors",
+                "label": "Our Sponsors",
                 "title": "",
                 "type": "post",
                 "target": "_self",
@@ -47,7 +71,7 @@
                         "rel": "",
                         "link": 10,
                         "cssClass": "",
-                        "isHidden": false,
+                        "isHidden": true,
                         "items": []
                     },
                     {
@@ -75,6 +99,18 @@
                         "items": []
                     }
                 ]
+            },
+            {
+                "id": 1739981677033,
+                "label": "Contact Us",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 15,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
             }
         ],
         "maxLevels": "-1"

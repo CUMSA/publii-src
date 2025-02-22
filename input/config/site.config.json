@@ -2,6 +2,7 @@
     "uuid": "uuid-1729633166180-222027894",
     "name": "cumsa",
     "displayName": "CUMSA",
+    "description": "",
     "synced": "synced",
     "logo": {
         "color": 1,
@@ -43,6 +44,9 @@
         "homepageNoIndexPagination": false,
         "homepageNoPagination": false,
         "metaRobotsIndex": "index, follow",
+        "homepageMetaTitle": "%sitename",
+        "homepageMetaDescription": "",
+        "homepageMetaRobotsIndex": "index, follow",
         "postMetaTitle": "%posttitle - %sitename ",
         "postMetaDescription": "",
         "pageMetaTitle": "%pagetitle - %sitename ",
@@ -169,7 +173,7 @@
         }
     },
     "deployment": {
-        "protocol": "git",
+        "protocol": "github-pages",
         "relativeUrls": false,
         "port": "",
         "server": "",
@@ -203,10 +207,10 @@
         },
         "github": {
             "server": "api.github.com",
-            "user": "",
-            "repo": "",
-            "branch": "",
-            "token": "",
+            "user": "CUMSA",
+            "repo": "cumsa.org",
+            "branch": "main",
+            "token": "publii-gh-token uuid-1729633166180-222027894",
             "parallelOperations": 1,
             "apiRateLimiting": 1
         },
@@ -232,5 +236,5 @@
         }
     },
     "theme": "cumsa",
-    "syncDate": 1734289646100
+    "syncDate": 1740219221127
 }
