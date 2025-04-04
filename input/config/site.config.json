@@ -1,6 +1,6 @@
 {
     "uuid": "uuid-1729633166180-222027894",
-    "name": "cumsa",
+    "name": "publii-src",
     "displayName": "CUMSA",
     "description": "",
     "synced": "synced",
@@ -200,7 +200,7 @@
             "url": "https://github.com/CUMSA/cumsa.org",
             "branch": "main",
             "user": "CUMSA",
-            "password": "publii-git-password uuid-1729633166180-222027894",
+            "password": "",
             "commitAuthor": "admin",
             "commitEmail": "database@cumsa.org",
             "commitMessage": "Publii: update content"
@@ -236,5 +236,5 @@
         }
     },
     "theme": "cumsa",
-    "syncDate": 1740219221127
+    "syncDate": 1743758565098
 }
