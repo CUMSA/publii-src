@@ -53,7 +53,7 @@
         "shareLinkedin": false,
         "shareBuffer": false,
         "commentDisqusShortname": "",
-        "copyrightText": "<div class=\"footer__sponsors\">\n<div class=\"footer__sponsors__group\">\n<div class=\"footer__sponsors__group__title\">Platinum Sponsors</div>\n<img src=\"media/files/mitsui-bussan-logo.png\"></div>\n<div class=\"footer__sponsors__group\">\n<div class=\"footer__sponsors__group__title\">Gold Sponsors</div>\n<img src=\"media/files/mapletree-logo.png\"> <img src=\"media/files/imda-logo.png\"> <img src=\"media/files/setia-logo.jpg\"> <img src=\"media/files/nomura-logo.jpg\"></div>\n</div>\n<p>© CUMSA 2025</p>",
+        "copyrightText": "<div class=\"footer__sponsors\">\n<div class=\"footer__sponsors__group\">\n<div class=\"footer__sponsors__group__title\">Platinum Sponsors</div>\n<img src=\"media/files/mitsui-bussan-logo.png\"></div>\n<div class=\"footer__sponsors__group\">\n<div class=\"footer__sponsors__group__title\">Gold Sponsors</div>\n<img src=\"media/files/mapletree-logo.png\"> <img src=\"media/files/imda-logo.png\"> <img src=\"media/files/setia-logo.jpg\"> </div>\n</div>\n<p>© CUMSA 2025</p>",
         "socialButtons": false,
         "socialFacebook": "",
         "socialTwitter": "",
